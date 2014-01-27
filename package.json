@@ -1,0 +1,21 @@
+{
+    "name": "MusicBoxSocketServer"
+  , "version": "0.0.1"
+  , "private": true
+  , "scripts": {
+      "start": "node serversocket.js"
+     }
+  ,"repository" : { 
+      "type" : "git",
+      "url" : "http://github.com/tomplays/"
+     }
+  , "engines": {
+      "node": "0.10.24",
+      "npm": "1.3.21"
+     }
+  ,
+    "dependencies": {
+       "socket.io": "~0.9.16",
+       "nconf": "~0.6.9"
+     }
+}
