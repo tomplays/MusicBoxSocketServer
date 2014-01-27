@@ -6,7 +6,8 @@ Socket.io minimal/basic/standalone Server
 
 * INSTALL
 
-git clone ..
+git clone https://github.com/tomplays/MusicBoxSocketServer.git
+cd MusicBoxSocketServer
 npm install
 
 
