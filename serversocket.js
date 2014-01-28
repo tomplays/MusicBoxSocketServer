@@ -1,7 +1,5 @@
 ﻿'use strict';
-
 /*
-
 Sockets.io server
 ./ minimal 
 ./ basic
